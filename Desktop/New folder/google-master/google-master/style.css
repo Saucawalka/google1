@@ -3,9 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
 }
-body{
-    /* overflow-x: hidden; */
-}
+
 .trigger{
     padding-bottom: 10px;
     padding-right: 10px;
@@ -354,9 +352,7 @@ padding-bottom: 20px;
     .more{ 
         background-color:#f6f5f5;
         margin-top: 20px;
-    /* margin-left: 200px; */
     width: 300px; 
-    /* text-align: center; */
     padding: 25px;
     border-radius: 2px;
     box-shadow: 2px 1px 10px grey;
@@ -371,9 +367,7 @@ padding-bottom: 20px;
      }
      .light{background-color:#f6f5f5;
         margin-top: 20px;
-    /* margin-left: 10px; */
     width: 300px; 
-    /* text-align: center; */
     padding: 25px;
     border-radius: 2px;
     box-shadow: 2px 1px 10px grey;
@@ -390,9 +384,7 @@ padding-bottom: 20px;
      .socket{
         background-color:#f6f5f5;
         margin-top: 20px;
-    /* margin-left: 10px; */
     width: 300px; 
-    /* text-align: center; */
     padding: 25px;
     border-radius: 2px;  
     box-shadow: 2px 1px 10px grey;
@@ -406,9 +398,7 @@ padding-bottom: 20px;
 .some{
     background-color:#f6f5f5;
         margin-top: 20px;
-    /* margin-left: 10px; */
     width: 300px; 
-    /* text-align: center; */
     padding: 25px;
     border-radius: 2px;
     box-shadow: 2px 1px 10px grey;
@@ -446,47 +436,13 @@ padding-bottom: 20px;
 .true{
     display: block;
    }
-   .true>img{
-    /* margin-left: -200px; */
-   }
-   .true>p{
-    /* margin-left: 150px; */
-    /* margin-top: -50px; */
-   }
+   
    .dung{
     display: block;
    }
-.dung>img{
- /* margin-left: -150px; */
-}
-.dung>p{
- /* margin-left: 150px; */
- /* margin-top: -50px; */
-}
 
-.money>img{
- /* margin-left: -150px; */
-}
-.money>p{
- /* margin-left: 150px; */
- /* margin-top: -50px; */
-}
 
-.chess>img{
- /* margin-left: -150px; */
-}
-.chess>p{
- /* margin-left: 150px; */
- /* margin-top: -50px; */
-}
 
-.fine>img{
- /* margin-left: -150px; */
-}
-.fine>p{
- /* margin-left: 150px; */
- /* margin-top: -50px; */
-}
 .energy>ul{
 display: flex;
 text-align: center;
@@ -558,11 +514,11 @@ margin-left: 250px;
    }
    .fist{
     display: block;
-    /* padding-right:10px; */
+    
     margin-top: 20px;
     margin-right: 0px;
     width: 100%;
-    /* justify-content: center; */
+   
     
    }
    .fist>h1{
@@ -574,7 +530,7 @@ margin-left: 250px;
     
    }
    .one{
-    /* margin-left: 8px; */
+  
     width: 305px;
     margin: 20px auto;
     
@@ -676,11 +632,7 @@ margin-left: 250px;
     margin-left: 25px;
  width: 300px;   
    }
-   /* .cord{
-    display: list-item;
-        margin-top: 20px;
-        
-   } */
+  
    .cord{
     display: flex;
     flex-direction: column;
